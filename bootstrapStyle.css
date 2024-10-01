@@ -1,0 +1,35 @@
+.navbar-dark{
+    background-color: rgb(3, 34, 64);
+    padding: 20px;
+    margin-bottom: -10px;
+}
+
+    .sm-font-size{
+        font-size: 1rem;
+    }
+    .something{
+        background-color: white;
+    }
+    .cen{
+        display: flex;
+        justify-content:center;
+        align-items: center;
+    }
+    .carousel-item {
+        position: relative;
+        
+      }
+  
+      /* Position the button absolutely */
+      .custom-btn {
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        z-index: 10; /* Ensure the button stays on top of the image */
+   
+      }
+
+  .vid{
+    background-color:  rgb(3, 34, 64);
+  }
+
